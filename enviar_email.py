@@ -24,7 +24,7 @@ def enviar_email(email):
             <body style="font-family: Arial">
                 <h1 style="color: blue;">Olá</h1>
                 <img src="https://i.pinimg.com/736x/27/68/3e/27683e7872af4e367e2f27e9efdd1993.jpg" alt="Boas-Vindas" style="width:100%;max-width:600px;height:auto;">
-                <h2>Esse email ép ara teste.</h2>
+                <h2>Esse email é para teste.</h2>
             </body>
             </html>
         """
